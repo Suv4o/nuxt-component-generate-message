@@ -26,5 +26,3 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
 </script>
-
-<style lang="scss" scoped></style>

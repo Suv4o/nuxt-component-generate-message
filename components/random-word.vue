@@ -14,8 +14,4 @@ const word = ref("");
 function generateRandomWord() {
     word.value = randomWords();
 }
-
-const msg = ref("");
 </script>
-
-<style lang="scss" scoped></style>
